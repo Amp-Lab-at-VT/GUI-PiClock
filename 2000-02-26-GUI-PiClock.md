@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Peyton Garrett
-Tyler Shaffer
+author: Peyton Garrett, Tyler Shaffer
 show_sidebar: false
 ---
 
