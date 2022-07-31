@@ -4,7 +4,7 @@ title: GUI PiClock
 description: This project will utilize a Raspberry PI to create a dynamic widget display.
 date: 2000-02-26 09:00:00
 hero_image: /web/img/GUI-PiClock/Hero.png
-image: /web/img/GUI-PiClock/Hero.png
+# image /web/img/GUI-PiClock/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
